@@ -2,7 +2,7 @@
 ## Name and surname
 Kharlamava Tatsiana
 ## Contacts for communication
-+375256179114\
++375 (25) 617-91-14\
 tatiana_368@mail.ru
 ## Brief information about yourself
 I am hardworking, my goal is to master Javascript, HTML, CSS and more. I have a desire to learn new things
